@@ -1,0 +1,27 @@
+{
+  "name": "web-diplomado-backend-300h",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingseverini/web-diplomado-backend-300h.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingseverini/web-diplomado-backend-300h/issues"
+  },
+  "homepage": "https://github.com/ingseverini/web-diplomado-backend-300h#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.2"
+  },
+  "description": ""
+}
